@@ -1,0 +1,250 @@
+[
+      {
+    "pertanyaan": "Apa itu BERT?",
+    "jawaban": "BERT adalah model transformer untuk NLP yang dikembangkan oleh Google."
+  },
+  {
+    "pertanyaan": "Bagaimana cara kerja chatbot?",
+    "jawaban": "Chatbot memproses input pengguna dan menghasilkan respons otomatis, bisa berbasis aturan atau AI."
+  },
+  {
+    "pertanyaan": "Apa manfaat machine learning?",
+    "jawaban": "Machine learning membantu komputer belajar dari data dan membuat prediksi tanpa pemrograman eksplisit."
+  },
+  {
+    "pertanyaan": "Apa perbedaan supervised dan unsupervised learning?",
+    "jawaban": "Supervised learning menggunakan data berlabel, sedangkan unsupervised learning tidak menggunakan label."
+  },
+  {
+    "pertanyaan": "Bagaimana cara training model AI?",
+    "jawaban": "Model AI dilatih dengan data agar dapat mempelajari pola dan membuat prediksi."
+  },
+    {
+        "pertanyaan": "Apa yang Anda rasakan pada perut Anda?",
+        "jawaban": "Pasien merasakan perih dan terbakar di bagian atas perut, terutama setelah makan."
+    },
+    {
+        "pertanyaan": "Apakah perut Anda terasa perih, terbakar, atau kembung?",
+        "jawaban": "Gejala muncul sejak dua minggu lalu, terasa semakin parah setelah makan makanan pedas."
+    },
+    {
+        "pertanyaan": "Bagaimana gejala yang Anda rasakan di perut?",
+        "jawaban": "Sering mual setelah makan, kadang muntah terutama setelah makan berlemak."
+    },
+    {
+        "pertanyaan": "Bagaimana kondisi Anda setelah kecelakaan?",
+        "jawaban": "Saya merasa pusing dan agak sesak napas, terutama setelah kecelakaan."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa pusing, mual, atau kesulitan bernapas setelah kecelakaan?",
+        "jawaban": "Sakit di bagian lutut kiri, ada pembengkakan dan memar."
+    },
+    {
+        "pertanyaan": "Di bagian mana tubuh Anda merasa sakit setelah kecelakaan?",
+        "jawaban": "Tidak ada pendarahan atau luka terbuka, hanya memar dan bengkak."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa kesulitan berbicara?",
+        "jawaban": "Ya, saya merasa kesulitan untuk berbicara, lidah terasa berat."
+    },
+    {
+        "pertanyaan": "Apakah wajah Anda terasa tidak simetris?",
+        "jawaban": "Ya, wajah saya terasa seperti tumpul di sisi kiri, dan tangan kiri sulit digerakkan."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa kebingungan atau kesulitan menjaga keseimbangan tubuh?",
+        "jawaban": "Ya, saya merasa kebingungan dan jatuh saat mencoba berdiri."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa nyeri atau tekanan di dada?",
+        "jawaban": "Ya, saya merasakan tekanan di dada yang menjalar ke lengan kiri dan leher."
+    },
+    {
+        "pertanyaan": "Apakah nyeri dada menjalar ke lengan, leher, atau punggung?",
+        "jawaban": "Ya, saya merasa sesak napas dan pusing setelah berjalan sebentar."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa sesak napas atau pusing setelah beraktivitas?",
+        "jawaban": "Saya merokok dan memiliki kolesterol tinggi."
+    },
+    {
+        "pertanyaan": "Apakah Anda sering merasa haus?",
+        "jawaban": "Ya, saya sering merasa haus dan buang air kecil lebih sering dari biasanya."
+    },
+    {
+        "pertanyaan": "Apakah Anda sering buang air kecil atau merasa lapar meskipun baru makan?",
+        "jawaban": "Ya, saya kehilangan sekitar 5 kg dalam sebulan tanpa alasan yang jelas."
+    },
+    {
+        "pertanyaan": "Apakah Anda mengalami penurunan berat badan yang tidak dapat dijelaskan?",
+        "jawaban": "Saya juga memiliki riwayat keluarga dengan diabetes tipe 2."
+    },
+    {
+        "pertanyaan": "Apakah Anda sering kesulitan tidur atau terbangun di tengah malam?",
+        "jawaban": "Ya, saya sering terbangun di tengah malam dan kesulitan tidur lagi."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa lelah meskipun sudah tidur cukup lama?",
+        "jawaban": "Sering merasa lelah meskipun tidur lebih dari 7 jam."
+    },
+    {
+        "pertanyaan": "Apakah Anda sering terjaga lebih awal dan tidak bisa tidur lagi?",
+        "jawaban": "Iya, saya terbangun lebih awal dan tidak bisa tidur lagi."
+    },
+    {
+        "pertanyaan": "Apakah Anda mudah memar atau berdarah meskipun tanpa sebab jelas?",
+        "jawaban": "Ya, saya mudah memar dan perdarahan meski tanpa sebab yang jelas."
+    },
+    {
+        "pertanyaan": "Apakah Anda sering merasa lelah atau pusing?",
+        "jawaban": "Sering merasa sangat lelah dan pusing."
+    },
+    {
+        "pertanyaan": "Apakah Anda mengalami perdarahan dari gusi atau hidung?",
+        "jawaban": "Ya, saya sering mengalami pendarahan di gusi dan hidung."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa mual atau muntah?",
+        "jawaban": "Ya, saya merasa mual dan terkadang muntah."
+    },
+    {
+        "pertanyaan": "Apakah Anda mengalami diare atau sakit perut?",
+        "jawaban": "Sering diare dan sakit perut hebat."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa lemah atau dehidrasi?",
+        "jawaban": "Saya merasa sangat lemah dan dehidrasi."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa nyeri pada punggung bawah atau sisi tubuh?",
+        "jawaban": "Ya, saya merasa nyeri pada punggung bawah."
+    },
+    {
+        "pertanyaan": "Apakah Anda mengalami perubahan dalam jumlah urin yang Anda keluarkan?",
+        "jawaban": "Jumlah urin saya sangat sedikit dan tidak normal."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa sesak napas atau bengkak pada kaki?",
+        "jawaban": "Saya merasa sesak napas dan kaki saya membengkak."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasakan gatal atau rasa terbakar pada kulit?",
+        "jawaban": "Ya, saya merasa gatal dan terbakar pada kulit."
+    },
+    {
+        "pertanyaan": "Apakah Anda memiliki luka atau lepuhan di sekitar mulut atau alat kelamin?",
+        "jawaban": "Ada luka dan lepuhan di sekitar mulut."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa nyeri saat buang air kecil?",
+        "jawaban": "Iya, saya merasa nyeri saat buang air kecil."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa kekakuan otot atau kesulitan membuka mulut?",
+        "jawaban": "Ya, saya merasa kekakuan pada otot, terutama rahang."
+    },
+    {
+        "pertanyaan": "Apakah Anda pernah terluka dengan benda tajam atau kotor?",
+        "jawaban": "Saya terluka dengan benda tajam dan terinfeksi beberapa waktu lalu."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa kesulitan bernapas atau menelan?",
+        "jawaban": "Kesulitan bernapas dan menelan makanan."
+    },
+    {
+        "pertanyaan": "Apakah Anda mengalami demam tinggi selama lebih dari 5 hari?",
+        "jawaban": "Ya, saya mengalami demam tinggi dan pembengkakan pada tangan."
+    },
+    {
+        "pertanyaan": "Apakah ada ruam atau pembengkakan pada tangan atau kaki?",
+        "jawaban": "Saya mengalami ruam pada tubuh dan kaki terasa bengkak."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa mata Anda merah atau iritasi?",
+        "jawaban": "Iya, mata saya terlihat merah dan terasa iritasi."
+    },
+    {
+        "pertanyaan": "Apakah anak Anda lahir dengan cacat fisik atau keterlambatan perkembangan?",
+        "jawaban": "Ya, anak saya mengalami keterlambatan perkembangan."
+    },
+    {
+        "pertanyaan": "Apakah anak Anda memiliki masalah dalam kemampuan berbicara atau berjalan?",
+        "jawaban": "Anak saya kesulitan dalam berbicara dan berjalan."
+    },
+    {
+        "pertanyaan": "Apakah Anda memiliki riwayat keluarga dengan sindrom Down?",
+        "jawaban": "Iya, saya memiliki riwayat keluarga dengan sindrom Down."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasakan sakit yang tajam pada gigi atau gusi?",
+        "jawaban": "Ya, saya merasa sakit tajam pada gigi bagian belakang."
+    },
+    {
+        "pertanyaan": "Apakah gigi Anda terasa sangat sensitif terhadap makanan dingin atau panas?",
+        "jawaban": "Gigi saya sangat sensitif terhadap makanan dingin dan panas."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa kesulitan saat mengunyah atau menggigit makanan?",
+        "jawaban": "Saya kesulitan menggigit makanan keras karena sakit gigi."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa sangat haus atau sering buang air kecil?",
+        "jawaban": "Ya, saya sering merasa sangat haus dan buang air kecil lebih sering."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa lelah atau memiliki luka yang sulit sembuh?",
+        "jawaban": "Saya merasa sangat lelah dan luka saya sangat sulit sembuh."
+    },
+    {
+        "pertanyaan": "Apakah Anda sering merasa lapar meskipun baru makan?",
+        "jawaban": "Iya, saya merasa lapar terus-menerus meskipun baru makan."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa sakit kepala yang parah?",
+        "jawaban": "Ya, saya merasa sakit kepala yang parah dan leher terasa kaku."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa leher Anda kaku?",
+        "jawaban": "Saya mengalami demam tinggi disertai mual."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa demam tinggi dan mual?",
+        "jawaban": "Iya, saya merasa sangat lelah dan kaku di bagian leher."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa lelah, nyeri sendi, atau pembengkakan?",
+        "jawaban": "Ya, saya merasa lelah, nyeri sendi, dan ada pembengkakan."
+    },
+    {
+        "pertanyaan": "Apakah Anda memiliki riwayat keluarga dengan penyakit autoimun?",
+        "jawaban": "Iya, ada riwayat keluarga dengan lupus atau rheumatoid arthritis."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa kulit Anda berubah atau mengalami ruam?",
+        "jawaban": "Saya mengalami ruam pada kulit dan merasa lelah."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasakan nyeri dada, sesak napas, atau pusing?",
+        "jawaban": "Ya, saya sering merasakan nyeri dada yang menjalar ke lengan."
+    },
+    {
+        "pertanyaan": "Apakah Anda merasa kelelahan setelah aktivitas fisik?",
+        "jawaban": "Iya, saya merasa sangat lelah setelah beraktivitas fisik ringan."
+    },
+    {
+        "pertanyaan": "Apakah Anda memiliki riwayat kolesterol tinggi atau hipertensi?",
+        "jawaban": "Saya memiliki riwayat hipertensi dan kolesterol tinggi."
+    },
+    {
+        "pertanyaan": "Apakah Anda sering merasa kelelahan atau demam?",
+        "jawaban": "Ya, saya sering merasa kelelahan dan demam."
+    },
+    {
+        "pertanyaan": "Apakah Anda mengalami penurunan berat badan yang drastis?",
+        "jawaban": "Saya mengalami penurunan berat badan yang tidak dapat dijelaskan."
+    },
+    {
+        "pertanyaan": "Apakah Anda memiliki riwayat kontak dengan orang yang terinfeksi HIV?",
+        "jawaban": "Iya, saya pernah berhubungan dengan orang yang terinfeksi HIV."
+    }
+]
